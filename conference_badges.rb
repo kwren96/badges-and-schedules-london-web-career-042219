@@ -22,11 +22,9 @@ end
 array2
 end
 
-def printer
+def printer(names)
 names = batch_badge_creator
 rooms = assign_rooms
 names.each do |greetings|
   puts greetings
-end
-
 end
