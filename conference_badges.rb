@@ -28,3 +28,4 @@ rooms = assign_rooms
 names.each do |greetings|
   puts greetings
 end
+end
